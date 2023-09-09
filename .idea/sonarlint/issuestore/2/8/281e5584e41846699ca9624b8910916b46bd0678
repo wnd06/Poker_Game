@@ -1,0 +1,6 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„üÖ¼8†ü¥§1
+t	java:S116
+"SRename this field "UserCard" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü°ÛÃùÿÿÿÿ8ˆü¥§1
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8Šü¥§1

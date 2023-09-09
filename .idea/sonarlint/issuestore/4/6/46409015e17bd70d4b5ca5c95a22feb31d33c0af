@@ -1,0 +1,9 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„üÖ¼8È•³£§1
+{	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(œ¤“Ôúÿÿÿÿ8È•³£§1
+‘
+java:S1845"tRename field "name" to prevent any misunderstanding/clash with method "name" defined in superclass "java.lang.Enum".(³Êøü8É•³£§1
+W
+java:S1161":Add the "@Override" annotation above this method signature(Á»›ê8É•³£§1
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8•Ê³£§1

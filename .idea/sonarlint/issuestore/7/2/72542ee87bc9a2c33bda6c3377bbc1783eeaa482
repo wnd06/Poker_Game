@@ -1,0 +1,10 @@
+
+t	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8•ŠÏÃ§1
+h
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(’ÎÁÄ8•ŠÏÃ§1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„üÖ¼8–ŠÏÃ§1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Î—¯Áøÿÿÿÿ8ºŠÏÃ§1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ü«©Òşÿÿÿÿ8ºŠÏÃ§1
+u	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(†É#8ºŠÏÃ§1
+h	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(ûÒûå8ÁŠÏÃ§1
+>	java:S131""Add a default case to this switch.(’ÎÁÄ8ÁŠÏÃ§1
